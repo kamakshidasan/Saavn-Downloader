@@ -1,3 +1,5 @@
+Same as forked repository ~ Downloads songs with Clean Metadata
+
 Usage
 ====
 <pre>python3 saavn_downloader.py</pre>
